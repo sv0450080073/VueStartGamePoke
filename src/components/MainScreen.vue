@@ -3,7 +3,7 @@
     <h1>POKE MEMORIES</h1>
     <p>Select mode to start game</p>
     <div class="modes">
-<button @click="onStart(4)">
+<button @click="onStart(16)">
       <span>4x4</span>
       <span>Easy</span>
     </button>
